@@ -1,0 +1,7 @@
+{
+  "name": "bridgepay-frontend",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
